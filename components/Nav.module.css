@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navItem {
+    border: yellow 2px solid;
+
+}
+
+.navLink {
+    padding: 1em;
+    display: block;
+}
